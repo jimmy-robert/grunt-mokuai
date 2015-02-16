@@ -2,6 +2,8 @@
 
 > A Grunt task to create mokuai closures.
 
+[![Build Status](https://travis-ci.org/JimRobs/grunt-mokuai.svg)](https://travis-ci.org/JimRobs/grunt-mokuai)
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
