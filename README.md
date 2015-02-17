@@ -2,6 +2,9 @@
 
 > A Grunt task to create mokuai closures.
 
+[Mokuai](https://github.com/JimRobs/mokuai) lets you write pure JavaScript modules, without any concern about
+concatenation order and require calls.
+
 [![Build Status](https://travis-ci.org/JimRobs/grunt-mokuai.svg)](https://travis-ci.org/JimRobs/grunt-mokuai)
 
 ## Getting Started

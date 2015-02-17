@@ -1,7 +1,7 @@
 {
   "name": "grunt-mokuai",
   "description": "A Grunt task to create mokuai closures.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jimrobs/grunt-mokuai",
   "author": {
     "name": "jimrobs",
